@@ -8,4 +8,4 @@ The combinatorics notes are from teaching MATH 3U03 at McMaster University in 20
 
 There are also notes on adjacency matrices, spanning trees, and graph genus from teaching MATH 3V03 at McMaster University in 2019.
 
-The folder `/proofs` contains lecture slides from the Fall 2021 course "Introduction to mathematical Reasoning" at McMaster University.
+The folder `/proofs` contains lecture slides from the Fall 2021 course "Introduction to Mathematical Reasoning" at McMaster University.
