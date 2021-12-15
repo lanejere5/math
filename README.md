@@ -12,7 +12,7 @@ These are notes from some math courses I've taught. Please use them however you 
 
 # Why am I sharing these notes?
 
-There are many good sources of information on these topics that are available freely elsewhere, so why am I bothering to curate my versions of this material here?
+There are many good sources of information on these topics that are freely available elsewhere. Why am I bothering to curate my notes here?
 
 First, I think these notes contain some useful, valuable things. If anyone can benefit from them, I would be very happy.
 
