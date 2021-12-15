@@ -14,7 +14,7 @@ These are notes from some math courses I've taught. Please use them however you 
 
 There are many good sources of information on these topics that are freely available elsewhere. Why am I bothering to curate my notes here?
 
-First, I think these notes contain some useful, valuable things. If anyone can benefit from them, I would be very happy.
+First, I think these notes contain some valuable things. I would be very happy if anyone can benefit from them.
 
 Second, I often reflect on the purpose and practice of teaching math. These documents are a helpful partial record to myself that sometimes guides that reflection. They are particularly interesting to me because they follow my personal progression. Of course, they do not tell a complete story. They contain no information about what happened in lectures, office hourse, assignments, or exams. They don't (can't) say what students actually learned (or not), nor how they may have eventually used what they learned in their own lives (or not). But to me they are a useful reminder of some of these things.
 
