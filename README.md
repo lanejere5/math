@@ -9,13 +9,3 @@ These are notes from some math courses I've taught. Please use them however you 
 `/combinatorics` contains partial lecture notes from teaching undergraduate combinatorics at McMaster University in 2020.
 
 `/proofs` contains lecture slides from the Fall 2021 course "Introduction to Mathematical Reasoning" at McMaster University.
-
-# Why am I sharing these notes?
-
-There are many good sources of information on these topics that are freely available elsewhere. Why am I bothering to curate my notes here?
-
-First, I think these notes contain some valuable things. I would be very happy if anyone can benefit from them.
-
-Second, I often reflect on the purpose and practice of teaching math. These documents are a helpful partial record to myself that sometimes guides that reflection. They are particularly interesting to me because they follow my personal progression. Of course, they do not tell a complete story. They contain no information about what happened in lectures, office hourse, assignments, or exams. They don't (can't) say what students actually learned (or not), nor how they may have eventually used what they learned in their own lives (or not). But to me they are a useful reminder of some of these things.
-
-Finally, these notes are the result of flawed attempts to teach math. I still don't know exactly what I'm doing. My decisions and actions often defy my own models. Sometimes this is because my models are incomplete or wrong. Sometimes it is because teaching math is a complex human problem that resists simple models. Sometimes it's because I ran out of time or energy. I learn new things about teaching every time I do it. I share these notes because the teaching I have done is imperfect and I'm proud of it.
